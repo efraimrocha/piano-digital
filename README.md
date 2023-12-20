@@ -2,6 +2,9 @@
 
 Desenvolvido por Efraim Rocha durante o bootcamp  Potência Tech Ifood realizado pela Digial inovation one.
 
+Clica aqui para testar:
+https://efraimrocha.github.io/piano-digital/
+
 ### Imagem 1.
 ![image](https://github.com/efraimrocha/piano-digital/assets/67542881/ab0e6876-2629-420a-9e4a-34d59e56f425)
 
